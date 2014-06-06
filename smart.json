@@ -1,0 +1,9 @@
+{
+  "name": "rethink",
+  "description": "Meteor package to wrap rethinkdb as an alternative nosql database in Meteor",
+  "homepage": "https://github.com/tabruhn/meteor-rethink",
+  "author": "Tyson Bruhn <tyson@tysonb.me> (http://tysonb.me)",
+  "version": "0.0.1",
+  "git": "https://github.com/tabruhn/meteor-rethink",
+  "packages": {}
+}
